@@ -1,0 +1,13 @@
+trialType,trialID,BlockID,image,audio,audioType,audioDur
+training,1,1,star1,japanese_1,forward,34250
+training,2,1,star1,japanese_backward_1,backward,34250
+training,3,1,star1,starling_1,birdsong,34250
+training,1,2,star1,japanese_1,forward,34250
+training,2,2,star1,japanese_backward_1,backward,34250
+training,3,2,star1,starling_1,birdsong,34250
+training,1,3,star1,japanese_1,forward,34250
+training,2,3,star1,japanese_backward_1,backward,34250
+training,3,3,star1,starling_1,birdsong,34250
+training,1,4,star1,japanese_1,forward,34250
+training,2,4,star1,japanese_backward_1,backward,34250
+training,3,4,star1,starling_1,birdsong,34250
