@@ -1,0 +1,39 @@
+CF,subjCode,seed,Date,Baby's Name,Gender,Days,Adjusted Days,Age (months),Age months & days,Adjusted Age (months),Birthdate,"Days Early or late",visit #,Computer,"Tester Initials",Pilot,Exclude?,Practice,Video Release? Y/N,Notes,EarInfectionsLast12Months,LanguagesBesidesEnglish
+,Bird_101,101,12/1/16,removed,M,230,213,7.7,7 m 20 d,7.1,removed,-17,1,Jasmine,CS,Y,,,,did not calibrate; started it anyway and he went through it ,0,NO
+x,Bird_102,102,12/1/16,removed,F,238,233,7.9,7 m 29 d,7.77,removed,-5,1,Jasmine,CS,Y,,,,"changed attention getter, rattle instead of bunnies. Seems to work better. Didn't change seed :/ ",0,NO
+x,Bird_103,103,12/1/16,removed,F,226,219,7.5,7 m 15 d,7.3,removed,-7,1,Jasmine,CS,Y,,,,good,0,NO
+x,Bird_104,104,12/1/16,removed,F,242,238,8.1,8 m 2 d,7.93,removed,-4,1,Jasmine,CS,N,N,N,Y,great!,0,NO
+x,Bird_105,105,12/2/16,removed,M,238,212,7.9,7 m 29 d,7.07,removed,-26,1,Jasmine,CS,N,N,N,Y,great! TWINS,0,NO
+x,Bird_106,106,12/2/16,removed,M,238,212,7.9,7 m 29 d,7.07,removed,-26,1,Jasmine,CS,N,N,N,Y,great! TWINS,0,NO
+x,Bird_107,107,12/3/16,removed,M,209,213,6.97,6 m 29 d,7.1,removed,4,1,Jasmine,CS,N,N,N,Y,great! Dad occasionally watched Anime in Japanese,0,NO - dad occasionally watches Anime in Japanese
+x,Bird_108,108,12/5/16,removed,M,229,242,7.63,7 m 18 d,8.07,removed,13,1,Jasmine,CS,N,N,N,Y,great!,1,NO - a few spanish words while parents use Duolingo
+x,Bird_109,109,12/6/16,removed,F,219,219,7.3,7 m 9 d,7.3,removed,0,1,Jasmine,CS,N,Y?,N,Y,Good but bad calibration!,0,a few Japanese words !!!
+x,Bird_110,110,12/8/16,removed,F,217,210,7.23,7 m 6 d,7,removed,-7,1,Jasmine,CS,N,N,N,Y,Great! She hears spanish occasionally (just counting),,
+x,Bird_111,111,12/8/16,removed,M,242,240,8,8 m 2 d,8,removed,-2,1,Jasmine,CS,N,Y?,N,Y,"Bad calibration, he cried during first trials but he made it",,
+x,Bird_112,112,12/8/16,removed,F,213,214,7.1,7 m 3 d,7.1,removed,1,1,Jasmine,CS,N,N,N,Y,Good!,,
+x,Bird_113_Prac_818,113,12/12/16,removed,F,207,216,6.9,6 m 27 d,7.2,removed,9,1,Jasmine,CS,Prac,Y,Y,,,,
+x,Bird_114,114,12/13/16,removed,F,229,204,7.63,7 m 18 d,6.8,removed,-25,1,Jasmine,RR,N,N,N,Y,"great, she was interested the whole time. A bit far for track when she leaned back on mom, but it seemed to still track well",0,N/A
+x,Bird_115,115,12/22/16,removed,F,230,216,7.67,7 m 20 d,7.2,removed,-14,1,Jasmine,RR,N,N,N,Y,"Great, forgot to hit record until 1/2 way through on KINO. But track was good and looks were great!",,
+x,Bird_116,116,12/22/16,removed,F,219,228,7.3,7 m 9 d,7.6,removed,9,1,Jasmine,RR,N,N,N,Y,"Great calibration, short looks.",,
+x-wrong date 12/17 instead of 12/27,Bird_117,117,12/17/16,removed,M,195,197,6.5,6 m 15 d,6.6,removed,2,1,Jasmine,RR,N,N,N,Y,Great looks and calibration,,
+x,Bird_118,118,1/6/17,removed,F,211,214,7.03,7 m,7.1,removed,3,1,Jasmine,RR,N,N,N,Y,"Good looks, timed out trials on some",,
+x,Bird_119,119,1/26/17,removed,M,230,238,7.67,7 m 18 d,7.9,removed,8,1,Jasmine,RR,N,Y,N,Y,"Ok calibration affter many tries, track seemed to not be working well in experiment and FO ",1,spanish/french 1 hour per week
+x,Bird_120,120,1/27/17,removed,M,200,194,6.67,6 m 18 d,6.5,removed,-6,1,Jasmine,LM,N,N,N,Y,"Great! I forgot to use the snipping tool to save copy of calibration, but he had a great track!",0,None
+x,Bird_121,121,2/14/17,removed,M,237,239,7.9,7 m 22 d,8,removed,-2,1,Jasmine,RR,N,N,N,Y,"Good, calibration was tricky missing one point on right, but good track throughout",0,n/a
+x,Bird_122,122,2/15/17,removed,F,191,172,6.37,6 m 11 d,5.7,removed,-19,1,Jasmine,MZ,N,Y? ,N,N,great! Possibly too young based on adjusted age though,0,Spanish 1 hour per week
+x,Bird_123,123,2/17/17,removed,M,195,192,6.5,6 m 15 d,6.4,removed,-3,1,Jasmine,RR,N,N,N,Y,Great!,0,n
+x,Bird_124,124,2/20/17,removed,M,198,195,6.6,6 m 14 d,6.5,removed,-3,1,Jasmine,RR,N,N,N,Y,"Great! Sound glitch in beginning, but great overall",,
+x,Bird_125,125,2/21/17,removed,F,192,180,6.4,6 m 11 d,6,removed,-12,1,Jasmine,LM,N,Y?,N,Y,short looks and got fussy at the end,,
+x,Bird_126,126,2/24/17,removed,F,225,235,7.5,7 m 15 d,7.8,removed,10,1,Jasmine,RR,N,N?,N,Y,short looks and squirmy. ,0,n
+x,Bird_127,127,2/23/17,removed,F,232,213,7.73,7 m 17 d,7.1,removed,-19,1,Jasmine,RR,N,N,N,Y,Good overall,0,Spanish 3 hrs/week
+,Bird_128,128,2/24/17,removed,F,225,232,7.5,7 m 15 d,7.7,removed,7,1,Jasmine,RR,N,N,N,Y,Great!,0,n
+x,Bird_129,129,2/27/17,removed,F,224,203,7.47,7 m 15 d,6.8,removed,-21,1,Jasmine,MZ,N,Y,N,Y,experiment crashed after 4 trials; otherwise good; INCORRECTLY SCHEDULED (ADJUSTED AGE),0,n
+x,Bird_130,130,2/28/17,removed,M,190,186,6.33,6 m 9 d,6.2,removed,-4,1,Jasmine,LM,N,N,N,Y,"Very interested, but kept folding himself over and loosing the track, even after moving back.",0,No
+x,Bird_131,131,3/2/17,removed,M,239,233,7.97,8 m,7.8,removed,-6,1,Jasmine,RR,N,Y?,N,y,"Good track, very short looks",0,No
+x,Bird_132Prac,132,3/3/17,removed,F,208,194,6.93,6 m 22 d,6.5,removed,-14,1,Jasmine,LM,N,Y,Y,Y,Good looks!,,
+x,Bird_133,133,3/7/17,removed,m,239,239,7.97,8 m ,8,removed,0,1,Jasmine,VB,N,N,N,Y,"calibration on edges was not great (I forgot to screen shot it, sorry!), but track was good throughout. ",,
+x,Bird_134,134,3/9/17,removed,f,231,232,7.6,7m 18 days,7.6,removed,1,1,Jasmine,RR,N,N,N,Y,Great!,,
+x,Bird_135,135,3/9/17,removed,f,191,188,6.3,6m 9d,6.2,removed,-3,1,Jasmine,RR,N,N?,N,Y,"Calibration not great, started to get upset. Looks were short and track wasn't great.",,
+x,Bird_136,136,3/13/17,removed,m,199,194,6.5,6m 17d,6.4,removed,-5,1,Jasmine,RR,N,N,N,Y,"calibration okay, top r/l wouldn't track. Track was good throughout.",0,N
+x,Bird_137,137,3/14/17,removed,m,222,230,7.3,,7.6,removed,8,1,Jasmine,LM,N,N,N,Y,good track! May have maxed out on first look,0,2 hours/week Spanish
+x,Bird_138,138,3/27/17,removed,m,213,205,7,6m 29d,6.7,removed,-8,1,Jasmine,RR,N,N,N,Y,"good looks, okay calibration. Used headphones and visor",0,n

@@ -1,0 +1,32 @@
+CF,subjCode,seed,Date,Baby's Name,Gender,Days,Adjusted Days,Age (months),Age months & days,Adjusted Age (months),Birthdate,"Days Early or late",visit #,Computer,"Tester Initials",Pilot,Exclude?,Practice,Video Release? Y/N,Notes,EarInfectionsLast12Months,LanguagesBesidesEnglish
+x,Bird_201,101,5/30/17,NA,F,194,194,6.4,,6.4,NA,0,1,Jasmine,LM,N,,N,Y,"Great! Eyetracker turned off during calibration, but eventually got a great calibration and track.",0,NA
+x,Bird_202,102,5/31/17,NA,M,211,205,6.9,,6.7,NA,-6,1,Jasmine,RR,N,N,N,Y,"Great, calibration and track. Leaned forward a lot, but track stayed solid. ",0,NA
+x,Bird_203Prac,103,6/1/17,NA,F,236,238,7.8,,7.8,NA,2,1,Jasmine,RR,N,Y,Y,Y,Good overall track and calibration,0,Yes; 20 hours German and Japanese
+x,Bird_204,104,6/1/17,NA,M,226,219,7.4,,7.2,NA,-7,1,Jasmine,RR,N,N,Y,Y,Great calibration and track. Good looks.,1,Yes; 4 hours Urdu
+x,Bird_205a,105,6/5/17,NA,M,234,238,7.4,,7.5,NA,4,1,Jasmine,RR,N,N,N,Y,"Not a great calibration, didn’t' pick up eyes well. Track seemed responsive. Python error caused crash before any trials started which is why subject number has ""a""",1,NA
+x,Bird_206,106,6/9/17,NA,F,241,248,7.9,,8.1,NA,7,1,Jasmine,RR,N,N,N,y,Great calibration and track!,,NA
+x,Bird_207,107,6/12/17,NA,F,205,186,6.7,,6.1,NA,-19,1,Jasmine,MZ,N,N,N,Y,"great calibration and track; forgot to press ""accept"" after calibration, but ran well",,NA
+x,Bird_208,108,6/13/17,NA,F,182,189,6,,6.2,NA,7,1,Jasmine,MZ,N,N,N,Y,great calibration and track; fairly attentive throughout most of study with only a little fussiness,0,NA
+x,Bird_209,109,6/23/17,NA,M,205,184,6.7,,6,NA,-21,1,Jasmine,RR,N,N,N,Y,"good calibration, a bit wiggly but overall good. Age noted in exp incorrect age on subject log correct. Headphones not in booth??",0,NA
+x,Bird_210,110,6/23/17,NA,M,212,225,7,,7.4,NA,13,1,Jasmine,RR,N,N,N,Y,"good calibration, wiggled and somewhat upset towards end.",0,NA
+x,BirdPrac_211,111,6/26/17,NA,F,572,572,18.8,,18.8,NA,0,1,Jasmine,RR,N,Y,Y,Y,Good looks. Not 6 months old. Birthday was off by a year.,3,sporadic spanish
+x,Bird_212,112,6/28/17,NA,M,225,233,7.4,,7.7,NA,8,1,Jasmine,RR,N,n?,N,y,"Calibration ok, spoty track. Not great data I don't think.",0,NA
+x,Bird_213,113,6/29/17,NA,M,251,245,8.2,,8,NA,-6,1,Jasmine,RR,N,N,N,Y,"Good calibration, a bit squirmy. Pretty good tracking.",0,NA
+x,Bird_214,114,7/7/17,NA,M,184,181,6,,5.9,NA,-3,1,Jasmine,RR,N,N,N,Y,"ok calibration, great track and looks. Adjusted age under by .1 ",0,NA
+x,Bird_215,115,7/11/17,NA,F,183,188,6,,6.2,NA,5,1,Jasmine,SO,N,N,N,Y,"Ok calibration, good looking and pretty good tracking",0,NA
+x,Bird_216,116,7/12/17,NA,M,214,209,7,,6.9,NA,-5,1,Jasmine,RR,N,N,N,Y,"Great, ok calibration good looks",1,NA
+x,Bird_217,117,7/13/17,NA,F,216,212,7.1,,7,NA,-4,1,Jasmine,RR,N,N,N,Y,good calibration and track. Squirmy but track was solid and great looks/,0,NA
+x (missing checklist),Bird_218,118,7/14/17,NA,M,241,220,7.9,,7.2,NA,-21,1,Jasmine,MZ,N,N,N,Y,"great, good looks at beginning, then short towards end",0,NA
+x,Bird_219,119,7/17/17,NA,M,188,184,6.2,,6,NA,-4,1,Jasmine,MZ,N,N,N,Y,great calibration and track,,
+x,Bird_220,120,7/18/17,NA,f,228,217,7.5,,7.1,NA,-11,1,Jasmine,MZ,N,N,N,Y,ok calibration and track; very short looks,1,NA
+x,Bird_221,121,7/18/17,NA,m,185,188,6.1,,6.2,NA,3,1,Jasmine,SO,N,Y,N,Y,"good calibration, but poor tracking",0,NA
+x,Bird_222,122,7/19/17,NA,f,194,189,6.4,,6.2,NA,-5,1,Jasmine,SO,N,N,N,N,"didn't calibrate top two points due to helmet, but good looking",0,NA
+x,Bird_223,123,7/19/17,NA,f,184,190,6,,6.2,NA,6,1,Jasmine,SO,N,N,N,Y,"good calibration, good looks",0,NA
+x,Bird_224,124,7/21/17,NA,f,204,198,6.7,,6.5,NA,-6,1,Jasmine,MZ,N,N,N,Y,"good calibration on second attempt; wiggly, but pretty good attention throughout",0,"Spanish (3h a week, mostly video)"
+x,Bird_225,125,7/24/17,NA,f,213,215,7,,7.1,NA,2,1,Jasmine,RR,N,N,N,Y,Great!,0,Italian 1 hr/week
+x,Bird_226Prac,126,7/25/17,NA,m,235,227,7.7,,7.5,NA,-8,1,Jasmine,SO,N,Y,Y,Y,"great calibration, good tracking, OLE",,
+x (missing checklist),Bird_227,127,7/25/17,NA,f,202,192,6.6,,6.3,NA,-10,1,Jasmine,MZ,N,N,N,Y,good,0,NA
+x,Bird_228,128,7/26/17,NA,m,210,211,6.9,,6.9,NA,1,1,Jasmine,SO,N,N,N,Y,"good calibration, good tracking, some short looks",0,NA
+x,Bird_229,129,7/26/17,NA,f,202,188,6.6,,6.2,NA,-14,1,Jasmine,SO,N,N?,N,Y,"good tracking, but poor calibration - would not look at screen! (intercom turned on to check audio, but she was not interested in calibration stimuli)",0,"Spanish, 2 hr/week"
+x,Bird_230,130,8/1/17,NA,f,209,207,6.9,,6.8,NA,-2,1,Jasmine,MZ,N,N,N,Y,fussy in second half (would not look to screen); good calibration; also leaned to far forward in second half,0,NA
+x,Bird_231,131,8/1/17,NA,f,233,231,7.7,,7.6,NA,-2,1,Jasmine,SO,N,N?,N,Y,"great looking, but poor tracking",0,NA
