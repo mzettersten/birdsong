@@ -1,7 +1,7 @@
 # birdsong
 Data and experimental materials for experiments on infants' preferences for auditory stimuli
 
-Santolin, C.,Zettersten, M., & Saffran, J. (unpublished). Infants' preference for non-native speech versus birdsong.
+Santolin, C., Zettersten, M., & Saffran, J. (unpublished). Infants' preference for non-native speech versus birdsong.
 
 ## Experimental Details
 
