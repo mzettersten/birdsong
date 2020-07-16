@@ -15,3 +15,8 @@ Santolin, C., Zettersten, M., & Saffran, J. (unpublished). Infants' preference f
   - version3: three conditions: Japanese speech forwards, Japanese speech backwards, birdsong
   - version4: two conditions: Japanese speech forwards, birdsong
 
+## Results Overview
+
+Here is a direct link to the html rendering of the R Markdown file in the data_analysis folder. This provides a basic overview of the results.
+
+https://mzettersten.github.io/birdsong/data_analysis/2_birdsong_analysis.html
